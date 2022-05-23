@@ -4,7 +4,7 @@ Juan Pineda-Jaramillo<sup>a</sup>, Humberto Barrera-Jiménez<sup>b</sup>, Rodrig
 <sup>b</sup>Coventry University, UK \
 <sup>c</sup>Florida Institute of Technology, USA
 
-Journal of Safety Research, Volume X, Issue X, 2022, Pages XX-XX, ISSN 0022-4375 \
+Journal of Safety Research, Volume 81, 2022, Pages 225-238, ISSN 0022-4375 \
 https://doi.org/10.1016/j.jsr.2022.02.014 \
 https://www.sciencedirect.com/science/article/abs/pii/S0022437522000329
 
